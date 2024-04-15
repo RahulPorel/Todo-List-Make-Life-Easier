@@ -6,6 +6,7 @@ import "./styles/TodoWrapper.css";
 
 import { v4 as uuidv4 } from "uuid";
 import { EditTodo } from "./EditTodo";
+import Footer from "./Footer";
 
 export const TodoWrapper = () => {
   const [todos, setTodos] = useState([]);
@@ -59,24 +60,27 @@ export const TodoWrapper = () => {
   };
 
   return (
-    <div className="TodoWrapper">
-      <h1>Make Life Easier</h1>
-      <TodoForm addTodo={addTodo} />
+    <>
+      <div className="TodoWrapper">
+        <h1>Make Life Easier</h1>
+        <TodoForm addTodo={addTodo} />
 
-      {/* display todos */}
-      {todos.map((todo) =>
-        todo.isEditing ? (
-          <EditTodo key={todo.id} editTodo={editTask} task={todo} />
-        ) : (
-          <Todo
-            key={todo.id}
-            task={todo}
-            deleteTodo={deleteTodo}
-            editTodo={editTodo}
-            toggleComplete={toggleComplete}
-          />
-        )
-      )}
-    </div>
+        {/* display todos */}
+        {todos.map((todo) =>
+          todo.isEditing ? (
+            <EditTodo key={todo.id} editTodo={editTask} task={todo} />
+          ) : (
+            <Todo
+              key={todo.id}
+              task={todo}
+              deleteTodo={deleteTodo}
+              editTodo={editTodo}
+              toggleComplete={toggleComplete}
+            />
+          )
+        )}
+      </div>
+      <Footer />
+    </>
   );
 };

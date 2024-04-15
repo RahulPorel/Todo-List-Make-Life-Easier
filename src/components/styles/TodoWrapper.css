@@ -99,6 +99,12 @@ h1 {
 .delete-icon {
   color: darkred;
 }
+.Github {
+  margin-top: 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 22px;
+}
 
 @media only screen and (max-width: 600px) {
   .todo-input {
