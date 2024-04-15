@@ -99,3 +99,12 @@ h1 {
 .delete-icon {
   color: darkred;
 }
+
+@media only screen and (max-width: 600px) {
+  .todo-input {
+    width: 200px;
+  }
+  .TodoWrapper {
+    margin-top: 10rem;
+  }
+}
