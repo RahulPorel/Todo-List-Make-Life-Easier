@@ -1,8 +1,6 @@
 # Todo List App (Make Life Easier)
 
-A simple todo list application built with React, allowing users to manage their tasks efficiently.
-
-![Todo List Application](todo-app-screenshot.png)
+ths todo list application is built with React, allowing users to manage their tasks efficiently.
 
 ## Features
 
@@ -16,15 +14,14 @@ A simple todo list application built with React, allowing users to manage their 
 
 - React: Frontend library for building user interfaces.
 - React Hooks: Functional components with state and lifecycle features.
-- UUID: Library for generating unique IDs for todo items.
-- FontAwesome: Icon library for stylish todo list icons.
+- Frontend Stack - HTML,CSS,JS
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/RahulPorel/Todo-List-Make-Life-Easier
    ```
 
 2. Navigate to the project directory:
@@ -42,10 +39,10 @@ A simple todo list application built with React, allowing users to manage their 
 4. Start the development server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
-5. Open your browser and go to `http://localhost:3000` to view the application.
+5. Open your browser and go to `http://localhost:5174` to view the application.
 
 ## Usage
 
@@ -70,5 +67,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Make sure to replace placeholders like `your-username`, `todo-app-screenshot.png`, and update any specific instructions or URLs with your actual information. This README provides a comprehensive overview of your todo list application, making it easier for users and potential contributors to understand and use your project.
