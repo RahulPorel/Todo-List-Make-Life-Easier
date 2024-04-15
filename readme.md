@@ -20,8 +20,6 @@ https://make-life-easier-todo.netlify.app/
 
 ![Screenshot (560)](https://github.com/RahulPorel/Todo-List-Make-Life-Easier/assets/98636266/d6f713af-be54-4a4a-ac10-7aae995a379a)
 
-
-
 ## Technologies Used
 
 - React: Frontend library for building user interfaces.
@@ -34,17 +32,6 @@ https://make-life-easier-todo.netlify.app/
 2. Mark a task as complete by clicking on it. Click again to mark it as incomplete.
 3. Edit a task by clicking the edit icon next to it. Press "Enter" after editing to save changes.
 4. Delete a task by clicking the delete icon next to it.
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/new-feature`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature/new-feature`).
-6. Create a new Pull Request.
 
 ## Installation
 
@@ -73,6 +60,17 @@ Contributions are welcome! If you'd like to contribute to this project, please f
    ```
 
 5. Open your browser and go to `http://localhost:5174` to view the application.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/new-feature`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature/new-feature`).
+6. Create a new Pull Request.
 
 ## License
 
