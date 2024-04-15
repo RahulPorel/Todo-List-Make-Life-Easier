@@ -16,10 +16,16 @@ https://make-life-easier-todo.netlify.app/
 
 ## Todo List App (Make Life Easier) SnapShot's
 
+### Computer's
 ![Screenshot (559)](https://github.com/RahulPorel/Todo-List-Make-Life-Easier/assets/98636266/d4f5ce19-af8d-4a5c-8eaf-d23b47fd44ae)
 
 ![Screenshot (560)](https://github.com/RahulPorel/Todo-List-Make-Life-Easier/assets/98636266/d6f713af-be54-4a4a-ac10-7aae995a379a)
 
+### Mobile's
+![Screenshot (563)](https://github.com/RahulPorel/Whats-The-Weather/assets/98636266/8b64ccfd-88d5-4317-a586-e359a916fbd8)
+
+### Tablet's
+![Screenshot (564)](https://github.com/RahulPorel/Whats-The-Weather/assets/98636266/a92dab08-efa8-477a-97a1-8b89ccc7ac36)
 ## Technologies Used
 
 - React: Frontend library for building user interfaces.
