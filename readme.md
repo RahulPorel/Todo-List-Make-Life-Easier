@@ -8,7 +8,19 @@ ths todo list application is built with React, allowing users to manage their ta
 - **Delete Todo:** Remove tasks from the list when they are completed or no longer needed.
 - **Toggle Complete:** Mark tasks as complete or incomplete.
 - **Edit Todo:** Edit the task description directly within the todo list.
-- **Local Storage:** Persist todo list data in the browser's local storage for seamless user experience across sessions.    
+- **Local Storage:** Persist todo list data in the browser's local storage for seamless user experience across sessions.
+
+## Live Link
+
+## Todo List App (Make Life Easier) SnapShot's
+
+![Screenshot (559)](https://github.com/RahulPorel/Todo-List-Make-Life-Easier/assets/98636266/d4f5ce19-af8d-4a5c-8eaf-d23b47fd44ae)
+
+![Screenshot (560)](https://github.com/RahulPorel/Todo-List-Make-Life-Easier/assets/98636266/d6f713af-be54-4a4a-ac10-7aae995a379a)
+
+![Screenshot (561)](https://github.com/RahulPorel/Todo-List-Make-Life-Easier/assets/98636266/5f25c034-91a1-459e-ac96-5fa9fe5229d4)
+
+![Screenshot (562)](https://github.com/RahulPorel/Todo-List-Make-Life-Easier/assets/98636266/534af0ae-ca00-4aed-97e6-60dbaaa8e1ea)
 
 ## Technologies Used
 
