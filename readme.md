@@ -1,6 +1,6 @@
 # Todo List App (Make Life Easier)
 
-ths todo list application is built with React, allowing users to manage their tasks efficiently.
+Todo List (Make Life Easier) application designed to streamline task management. With features like adding, deleting, editing, and marking tasks completed and many more
 
 ## Features
 
@@ -11,6 +11,8 @@ ths todo list application is built with React, allowing users to manage their ta
 - **Local Storage:** Persist todo list data in the browser's local storage for seamless user experience across sessions.
 
 ## Live Link
+
+https://make-life-easier-todo.netlify.app/
 
 ## Todo List App (Make Life Easier) SnapShot's
 
